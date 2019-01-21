@@ -1,4 +1,4 @@
-# monitoring tool for PostgreSQL 9.6 
+# diagnostic tool for PostgreSQL 9.6 
 
 - version
 - session
@@ -11,4 +11,4 @@
 
 # usage
 
-$ psql postgres -f monitoring.sql 
+$ psql postgres -f diag.sql 

@@ -1,3 +1,7 @@
+\echo =================================
+\echo MEMORY USAGE
+\echo =================================
+
 -- https://www.slideshare.net/AlexeyBashtanov/postgresql-and-ram-usage
 do $do$
 declare

@@ -1,1 +1,5 @@
-select * from pg_user;
+\echo =================================
+\echo USERS
+\echo =================================
+
+SELECT * FROM pg_user;

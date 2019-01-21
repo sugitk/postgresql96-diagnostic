@@ -8,3 +8,7 @@
 - user
 - (TODO) log
 - (TODO) statistics
+
+# usage
+
+$ psql postgres -f monitoring.sql 
